@@ -4,14 +4,14 @@ html {
 
 @font-face {
   font-family: "font";
-  src: url("../fonts/nicokaku_v2.ttf") format("truetype"),
-    url(../fonts/nicokaku_v2.woff) format("woff");
+  src: url("fonts/nicokaku_v2.ttf") format("truetype"),
+    url("fonts/nicokaku_v2.woff") format("woff");
 }
 
 @font-face {
   font-family: "font1";
-  src: url("../fonts/MPLUS1[wght].ttf") format("truetype"),
-    url(../fonts/MPLUS1[wght].woff) format("woff");
+  src: url("fonts/MPLUS1[wght].ttf") format("truetype"),
+    url("fonts/MPLUS1[wght].woff") format("woff");
 }
 
 a {
